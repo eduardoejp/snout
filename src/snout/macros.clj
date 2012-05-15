@@ -10,7 +10,7 @@
 ;;
 ;; You must not remove this notice, or any other, from this software.
 
-(ns snout.macros)
+(ns ^{:author "Eduardo Julian"} snout.macros)
 
 ; <Constants>
 (def ^:private +splat+ #"\*")

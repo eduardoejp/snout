@@ -10,7 +10,7 @@
 ;;
 ;; You must not remove this notice, or any other, from this software.
 
-(ns snout.core
+(ns ^{:author "Eduardo Julian"} snout.core
   (:require [goog.events :as gevents]
             [goog.History :as history]
             [goog.history.Html5History :as history5]))
